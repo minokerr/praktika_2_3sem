@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'gill sans nova';
+    src: url('../fonts/Gill Sans Nova/gillsansnova_heavy.ttf') format('truetype');
+}
+body{
+    font-family: 'gill sans nova', sans-serif;
+}
+
+.buton {
+    color: #b3b3b3;
+    border-bottom: #b3b3b3;
+}
+.buton:hover {
+    color: #009848;
+    border-bottom: #009848;
+}
+
